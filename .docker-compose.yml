@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  mgst-manager:
+    build:
+      context: .
+      dockerfile: ./Dockerfile

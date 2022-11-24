@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": "",
+    "ownerID": ""
+  },
+  "database": {
+    "users": ""
+  },
+  "log": {
+    "error": "",
+    "message": ""
+  }
+}
